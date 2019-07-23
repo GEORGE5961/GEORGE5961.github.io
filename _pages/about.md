@@ -22,7 +22,7 @@ School of Electronic Information and Electrical Engineering, Sep. 2015 to Jun. 2
 
 Publications
 ======
-* _	Xuecheng Li, **Zhengyu Wu**, Ting Han Gamification-Based VR Rowing Simulation System. HCI (2) 2019: 484-493_ [paper]{https://link.springer.com/chapter/10.1007%2F978-3-030-22643-5_38}
+* _Xuecheng Li, **Zhengyu Wu**, Ting Han Gamification-Based VR Rowing Simulation System. HCI (2) 2019: 484-493_ [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-22643-5_38)
 * _Zeyi Wen, **Mingyu Liang**, Bingsheng He, et al. “Aucher: Multi-modal Queries on Live Audio Streams in Real-time”. IEEE International Conference on Data Engineering (ICDE), 2019 (demo)._
 * _Zeyi Wen, **Mingyu Liang**, et al. “A High-Performance Index for Real-Time Matrix Retrieval”. IEEE Transactions on Knowledge and Data Engineering (TKDE), 2019 (under review)._
 
