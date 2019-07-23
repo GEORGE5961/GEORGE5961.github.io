@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Zhengyu Wu"
-  avatar           : "/images/me.jpeg"
+  avatar           : "./images/me.jpeg"
   bio              : "Undergraduate of SJTU"
   location         : "Shanghai, China"
   employer         :
