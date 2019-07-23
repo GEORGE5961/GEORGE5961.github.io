@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About me"
+title: "Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
+About me
 ======
 
 I am pursuing bachelor's degree in [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/). I work under the supervision of [Prof. Virginia de Sa](http://www.cogsci.ucsd.edu/~desa/) and my research interest lies in machine learning and brain computer interface. 
