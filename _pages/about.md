@@ -13,7 +13,7 @@ Education
 ======
 School of Electronic Information and Electrical Engineering, Sep. 2015 to Jun. 2020 (expected)   
 
-* Bachelor of Software engineering
+* Bachelor of Software Engineering
 * Major GPA: 85.96/100, 3.62/4.3
 
 Publications
