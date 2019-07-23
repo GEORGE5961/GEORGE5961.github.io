@@ -10,7 +10,7 @@ redirect_from:
 About me
 ======
 
-I am pursuing Bachelor's degree in [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/). I work under the supervision of [Prof. Virginia de Sa](http://www.cogsci.ucsd.edu/~desa/) and my research interest lies in machine learning and brain computer interface. 
+I am pursuing bachelor's degree in [Shanghai Jiao Tong University (SJTU)](http://en.sjtu.edu.cn/). I work under the supervision of [Prof. Virginia de Sa](http://www.cogsci.ucsd.edu/~desa/) and my research interest lies in machine learning and brain computer interface. 
 
 Education
 ======
@@ -23,7 +23,7 @@ Publications
 ======
 * _Xuecheng Li, **Zhengyu Wu**, Ting Han Gamification-Based VR Rowing Simulation System. HCI (2) 2019: 484-493_ [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-22643-5_38)
 * _Xibai Li, **Zhengyu Wu**, Yan Sun, et al. A Method to Diagnose Discoid Lateral Menisci on Radiographs Using Image Processing Tools and Machine Learning. Knee Surgery, Sports Traumatology, Arthroscopy (under review)_
-* _**Zhengyu Wu**, Liwei Lin, Zhengui Xue. A Novel Sybil Attack Detection Scheme Based on Edge Computing for Mobile IoT Environment. Science China Journal (manuscript)_
+* _**Zhengyu Wu**, Liwei Lin, Zhengui Xue. A Novel Sybil Attack Detection Scheme Based on Edge Computing for Mobile IoT Environment._
 
 
 Research experience
