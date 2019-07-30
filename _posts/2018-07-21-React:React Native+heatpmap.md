@@ -1,7 +1,7 @@
 ---
 title: "React/React Native + Heatmap"
 date: 2018-07-21
-permalink: /posts/2018/
+permalink: /posts/2018/07-21
 ---
 
 

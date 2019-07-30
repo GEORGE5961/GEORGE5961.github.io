@@ -1,7 +1,7 @@
 ---
 title: "Sliding window"
 date: 2018-08-20
-permalink: /posts/2018/
+permalink: /posts/2018/08-20
 ---
 
 
