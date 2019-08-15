@@ -59,7 +59,7 @@ Projects
 <table class="tg">
   <tr>
     <th class="tg-oe15" width="30%">
-      <img src="../images/sybil.png" alt="我的照片" />
+      <img src="../images/app.png" alt="我的照片" />
     </th>
     <th class="tg-oe15">
       <b>Smart Garden APP and WEB </b> <br> 
