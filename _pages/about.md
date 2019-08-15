@@ -27,8 +27,8 @@ Projects
 ======
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
-.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
-.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg td{font-family:Arial, sans-serif;font-size:16px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:16px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
 .tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
 </style>
 <table class="tg">
@@ -50,9 +50,8 @@ Projects
       <img src="../images/sybil.png" alt="我的照片" />
     </th>
     <th class="tg-oe15">
-      <b>Gamification-Based VR Rowing Simulation System</b> <br> 
-      Implement a VR Rowing Simulation System which brings in competition and reward mechanism. It significantly enhances the effectiveness of atheletes exercising according to our experiments.<br>
-      <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-22643-5_38">[paper]</a>
+      <b>A Novel Sybil Attack Detection Scheme Based on Edge Computing for Mobile IoT Environment</b> <br> 
+      Propose a new method to detect Sybil attack in mobile IoT environment and achieve 92% detection rate. Compared with other methods, our method has less memory overhead. 
     </th>
   </tr>
 </table>
