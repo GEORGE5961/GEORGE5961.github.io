@@ -34,6 +34,18 @@ Projects
 <table class="tg">
   <tr>
     <th class="tg-oe15" width="30%">
+      <img src="../images/pipeline.png" alt="我的照片" />
+    </th>
+    <th class="tg-oe15">
+      <b>Synchronize EEG data and video frames</b> <br> 
+      A programed LED light is used to synchronize EEG data and video frames. It's an important part that makes combining different data feasible.
+    </th>
+  </tr>
+</table>
+
+<table class="tg">
+  <tr>
+    <th class="tg-oe15" width="30%">
       <img src="../images/row.png" alt="我的照片" />
     </th>
     <th class="tg-oe15">
