@@ -38,7 +38,7 @@ Projects
     </th>
     <th class="tg-oe15">
       <b>Synchronize EEG data and video frames</b> <br> 
-      A programed LED light is used to synchronize EEG data and video frames. It's an important part that makes combining different data feasible.
+      A programed LED light is used to synchronize EEG data and video frames. It's an important part that makes combining different data feasible. This work is advised by <a href="https://ieeexplore.ieee.org/author/37858238200">Prof. Virginia de Sa</a>.
     </th>
   </tr>
 </table>
@@ -63,7 +63,7 @@ Projects
     </th>
     <th class="tg-oe15">
       <b>A Novel Sybil Attack Detection Scheme Based on Edge Computing for Mobile IoT Environment</b> <br> 
-      A new method is proposed to detect Sybil attack in mobile IoT environment and achieve 92% detection rate. Compared with other methods, our method has less memory overhead. 
+      A new method is proposed to detect Sybil attack in mobile IoT environment and achieve 92% detection rate. Compared with other methods, our method has less memory overhead. This work is advised by <a href="https://ieeexplore.ieee.org/author/37858238200">Prof. Ruhui Ma</a>.
     </th>
   </tr>
 </table>
