@@ -38,7 +38,7 @@ Projects
     </th>
     <th class="tg-oe15">
       <b>Gamification-Based VR Rowing Simulation System</b> <br> 
-      Implement a VR Rowing Simulation System which brings in competition and reward mechanism. It significantly enhances the effectiveness of atheletes exercising according to our experiments.<br>
+      A VR Rowing Simulation System is implemented which brings in competition and reward mechanism. It significantly enhances the effectiveness of atheletes exercising according to our experiments.<br>
       <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-22643-5_38">[paper]</a>
     </th>
   </tr>
@@ -51,7 +51,7 @@ Projects
     </th>
     <th class="tg-oe15">
       <b>A Novel Sybil Attack Detection Scheme Based on Edge Computing for Mobile IoT Environment</b> <br> 
-      Propose a new method to detect Sybil attack in mobile IoT environment and achieve 92% detection rate. Compared with other methods, our method has less memory overhead. 
+      A new method is proposed to detect Sybil attack in mobile IoT environment and achieve 92% detection rate. Compared with other methods, our method has less memory overhead. 
     </th>
   </tr>
 </table>
@@ -63,7 +63,7 @@ Projects
     </th>
     <th class="tg-oe15">
       <b>Smart Garden APP and WEB </b> <br> 
-      Build a plat-crossing APP and WEB to controller shower nozzles in a garden. Shower nozzles are also self-adaptive according to the temperature and humidity of a garden. <br> 
+      A plat-crossing APP and WEB pages are built to controller shower nozzles in a garden. Shower nozzles are also self-adaptive according to the temperature and humidity of a garden. <br> 
       <a href="https://github.com/zhengyu-wu/Smart-Garden">[code]</a>
     </th>
   </tr>
