@@ -86,6 +86,6 @@ Miscellaneous
   - Computer Skills: C++/C, Python, SQL, Java, TensorFlow, Springboot, React
   - Standardized Tests: TOFEL: 96, GRE: V: 152, Q: 169, AW: 3
 - Interest
-  - Basketball, Guitar, Photography, Reading, Traveling
+  - Basketball, Guitar, Photography, Reading, Traveling, Body-building
 
 
