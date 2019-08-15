@@ -56,6 +56,19 @@ Projects
   </tr>
 </table>
 
+<table class="tg">
+  <tr>
+    <th class="tg-oe15" width="30%">
+      <img src="../images/sybil.png" alt="我的照片" />
+    </th>
+    <th class="tg-oe15">
+      <b>Smart Garden APP and WEB </b> <br> 
+      Build a plat-crossing APP and WEB to controller shower nozzles in a garden. Shower nozzles are also self-adaptive according to the temperature and humidity of a garden. <br> 
+      <a href="https://github.com/zhengyu-wu/Smart-Garden">[code]</a>
+    </th>
+  </tr>
+</table>
+
  
 Honors & Awards
 ======
