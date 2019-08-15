@@ -62,7 +62,8 @@ Projects
       <img src="../images/med.png" alt="我的照片" />
     </th>
     <th class="tg-oe15">
-      <b>A new method to diagnose discoid lateral menisci on radiographs is presented. Knee joint is segmented from an original radiograph image. Image enhancement and denoising tools are used to strengthen the image and remove noises. A specific algorithm was designed to build a model of the knee joint and measure the parameters. This work is advised by <a href="http://www.se.sjtu.edu.cn/teacher/teacherdetail.aspx?id=24">Prof. Yan Sun</a>.
+      <b>A new method to diagnose discoid lateral menisci on radiographs </b> <br> 
+      Knee joint is segmented from an original radiograph image. Image enhancement and denoising tools are used to strengthen the image and remove noises. A specific algorithm was designed to build a model of the knee joint and measure the parameters. This work is advised by <a href="http://www.se.sjtu.edu.cn/teacher/teacherdetail.aspx?id=24">Prof. Yan Sun</a>.
     </th>
   </tr>
 </table>
