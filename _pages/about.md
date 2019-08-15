@@ -38,7 +38,7 @@ Projects
     </th>
     <th class="tg-oe15">
       <b>Synchronize EEG data and video frames</b> <br> 
-      A programed LED light is used to synchronize EEG data and video frames. It's an important part that makes combining different data feasible. This work is advised by <a href="https://ieeexplore.ieee.org/author/37858238200">Prof. Virginia de Sa</a>.
+      A programed LED light is used to synchronize EEG data and video frames. It's an important part that makes combining different data feasible. This work is advised by <a href="http://www.cogsci.ucsd.edu/~desa/">Prof. Virginia de Sa</a>.
     </th>
   </tr>
 </table>
@@ -52,6 +52,17 @@ Projects
       <b>Gamification-Based VR Rowing Simulation System</b> <br> 
       A VR Rowing Simulation System is implemented which brings in competition and reward mechanism. It significantly enhances the effectiveness of atheletes exercising according to our experiments.<br>
       <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-22643-5_38">[paper]</a>
+    </th>
+  </tr>
+</table>
+
+<table class="tg">
+  <tr>
+    <th class="tg-oe15" width="30%">
+      <img src="../images/med.png" alt="我的照片" />
+    </th>
+    <th class="tg-oe15">
+      <b>A new method to diagnose discoid lateral menisci on radiographs is presented. Knee joint is segmented from an original radiograph image. Image enhancement and denoising tools are used to strengthen the image and remove noises. A specific algorithm was designed to build a model of the knee joint and measure the parameters. This work is advised by <a href="http://www.se.sjtu.edu.cn/teacher/teacherdetail.aspx?id=24">Prof. Yan Sun</a>.
     </th>
   </tr>
 </table>
