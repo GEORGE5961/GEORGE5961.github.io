@@ -23,12 +23,26 @@ Publications
 * _**Zhengyu Wu**, Liwei Lin, Zhengui Xue, et al. A Novel Sybil Attack Detection Scheme Based on Edge Computing for Mobile IoT Environment (manuscript)_
 
 
-Research experience
+Projects
 ======
-* **Detecting Sybil Attack in Mobile IoT**  
-_Supervised by Professor Ruihui Ma (SJTU), Oct. 2016 to Oct. 2017_
-    - Team leader in this project
-    - Propose a novel detection scheme based on RSSI against Sybil attack in IoT
+<style type="text/css">
+.tg  {border-collapse:collapse;border-spacing:0;}
+.tg td{font-family:Arial, sans-serif;font-size:14px;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg th{font-family:Arial, sans-serif;font-size:14px;font-weight:normal;padding:10px 5px;border-style:solid;border-width:1px;overflow:hidden;word-break:normal;border-color:black;}
+.tg .tg-oe15{background-color:#ffffff;border-color:#ffffff;text-align:left;vertical-align:top}
+</style>
+<table class="tg">
+  <tr>
+    <th class="tg-oe15" width="50%">
+      <img src="../images/row.png" alt="我的照片" />
+    </th>
+    <th class="tg-oe15">
+      <b>Gamification-Based VR Rowing Simulation System</b> <br> 
+      Implement a VR Rowing Simulation System which brings in competition and reward mechanism. It significantly enhances the effectiveness of atheletes exercising according to our experiments.<br>
+      <a href="https://link.springer.com/chapter/10.1007%2F978-3-030-22643-5_38">[paper]</a>
+    </th>
+  </tr>
+</table>
 
  
 Honors & Awards
@@ -48,3 +62,5 @@ Miscellaneous
   - Standardized Tests: TOFEL: 96, GRE: V: 152, Q: 169, AW: 3
 - Interest
   - Basketball, Guitar, Photography, Reading, Traveling
+
+
