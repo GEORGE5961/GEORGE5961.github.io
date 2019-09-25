@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Feel free to download [here](../files/CV_Zhengyu.pdf)!
+Feel free to download [here](../files/CV_zhengyu.pdf)!
