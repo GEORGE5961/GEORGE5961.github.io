@@ -71,7 +71,7 @@ Projects
 <table class="tg">
   <tr>
     <th class="tg-oe15" width="30%">
-      <img src="../images/med.png" alt="我的照片" />
+      <img src="../images/med.jpg" alt="我的照片" />
     </th>
     <th class="tg-oe15">
       <b>A new method to diagnose discoid lateral menisci on radiographs </b> <br> 
