@@ -59,6 +59,18 @@ Projects
 <table class="tg">
   <tr>
     <th class="tg-oe15" width="30%">
+      <img src="../images/vqa.png" alt="我的照片" />
+    </th>
+    <th class="tg-oe15">
+      <b>Visual Answering Question (VQA) Model Based on GAN</b> <br> 
+      Developed a VQA model based on GAN. The model projected answers and fusions of image features and question features into a latent space for semantic alignment. This work is advised by <a href="https://ieeexplore.ieee.org/author/37858238200">Prof. Ruhui Ma</a>. <br>
+    </th>
+  </tr>
+</table>
+
+<table class="tg">
+  <tr>
+    <th class="tg-oe15" width="30%">
       <img src="../images/med.png" alt="我的照片" />
     </th>
     <th class="tg-oe15">
