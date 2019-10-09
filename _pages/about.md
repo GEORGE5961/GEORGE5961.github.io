@@ -14,7 +14,7 @@ Education
 Shanghai Jiaotong University, Sep. 2015 to Jun. 2020 (expected)   
 
 * Bachelor of Software Engineering
-* Major GPA: 85.96/100, 3.62/4.3
+* GPA: 86.65/100, 3.65/4.0
 
 Publications
 ======
