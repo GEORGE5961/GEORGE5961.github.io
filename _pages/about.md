@@ -108,11 +108,13 @@ Projects
  
 Honors & Awards
 ======
-- Wish Company Scholarship (**Top 2%**)
-- Academic Excellence Scholarship of Shanghai Jiao Tong University (**Top 10%**) 
-- Excellent Student Cadre of Shanghai Jiao Tong University (**Top 0.5%, twice**) 
-- National Second Prize in Mathematical Contest in Modeling (**Top 5%**)
+- Wish Company Scholarship (**Top 2%, 12,000 CNY**)
 - 4th Place in Odyssey of the Mind Competition Finals in Iowa, USA
+- SJTU Scholarship for Oversea Study (**4,000 CNY**)
+- National Second Prize in Mathematical Contest in Modeling (**Top 5%**)
+- Academic Excellence Scholarship of Shanghai Jiao Tong University (**Top 10%, twice**) 
+- Excellent Student Cadre of Shanghai Jiao Tong University (**Top 0.5%, twice**) 
+
 
 Miscellaneous
 ======
