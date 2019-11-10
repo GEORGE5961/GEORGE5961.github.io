@@ -11,7 +11,7 @@ I am pursuing bachelor's degree in [Shanghai Jiao Tong University (SJTU)](http:/
 
 Education
 ======
-Shanghai Jiaotong University, Sep. 2015 to Jun. 2020 (expected)   
+Shanghai Jiao Tong University, Sep. 2015 to Jun. 2020 (expected)   
 
 * Bachelor of Software Engineering
 * Major GPA: 86.72/100
