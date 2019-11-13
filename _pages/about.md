@@ -20,7 +20,7 @@ Publications
 ======
 * _Xuecheng Li, **Zhengyu Wu**, Ting Han. Gamification-Based VR Rowing Simulation System. HCI (2) 2019: 484-493_ [paper](https://link.springer.com/chapter/10.1007%2F978-3-030-22643-5_38)
 * _Xibai Li, **Zhengyu Wu**, Yan Sun, et al. A Method to Diagnose Discoid Lateral Menisci on Radiographs Using Image Processing Tools and Machine Learning. Knee Surgery, Sports Traumatology, Arthroscopy (under review)_
-* _**Zhengyu Wu**, Liwei Lin, Zhengui Xue, et al. A Novel Sybil Attack Detection Scheme Based on Edge Computing for Mobile IoT Environment (manuscript)_
+* _**Zhengyu Wu**, Liwei Lin, Zhengui Xue, et al. A Novel Sybil Attack Detection Scheme Based on Edge Computing for Mobile IoT Environment_ [arxiv](https://arxiv.org/abs/1911.03129)
 
 
 Projects
@@ -108,6 +108,7 @@ Projects
  
 Honors & Awards
 ======
+- Hongyi Scholarship (10 students selected across SJTU, **25,000 CNY**)
 - Wish Company Scholarship (**Top 2%, 12,000 CNY**)
 - 4th Place in Odyssey of the Mind Competition Finals in Iowa, USA
 - SJTU Scholarship for Oversea Study (**4,000 CNY**)
