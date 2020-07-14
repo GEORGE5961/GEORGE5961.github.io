@@ -11,6 +11,9 @@ main:
   - title: "Blog"
     url: /year-archive/
 
+  - title: "Leetcode 500"
+    url: /leetcode/
+
   - title: "Publications"
     url: /publications/
     
